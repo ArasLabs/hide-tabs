@@ -44,13 +44,13 @@ Internet Explorer 11, Firefox 38 ESR, Chrome
 
 ## Usage
 
-![Hidden Tabs Example](./Screenshots/hidden_tabs_example.PNG)
-
 1. Log in to Aras as a user with permission to view Parts - i.e. 'admin'.
 2. Select **Design > Parts** in the Table of Contents (TOC).
 3. Open up any Part item for viewing.
 
 The BOM and BOM Structure tabs will be hidden from the form. The first relationship tab that appears will be the 'Alternates' tab.
+
+![Hidden Tabs Example](./Screenshots/hidden_tabs_example.PNG)
 
 ## Contributing
 
