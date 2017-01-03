@@ -44,7 +44,7 @@ Internet Explorer 11, Firefox 38 ESR, Chrome
 
 ## Usage
 
-![Hidden Tabs Example](./Screenshots/hidden-tabs-example.PNG)
+![Hidden Tabs Example](./Screenshots/hidden_tabs_example.PNG)
 
 1. Log in to Aras as a user with permission to view Parts - i.e. 'admin'.
 2. Select **Design > Parts** in the Table of Contents (TOC).
