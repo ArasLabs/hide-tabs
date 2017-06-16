@@ -40,6 +40,9 @@ hideTabs = function() {
 
 //Function to check if relationship grid is loaded
 var isTabbarReady = function() {
+    if (parent.relationships === undefined)
+        return false;
+    
     var isReady = Boolean(!parent.relationships ||
         !parent.relationships.relTabbarReady ||
         parent.relationships.relTabbar.GetTabOrder("|") !== "");
