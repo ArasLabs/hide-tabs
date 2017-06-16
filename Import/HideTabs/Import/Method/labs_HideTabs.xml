@@ -61,10 +61,4 @@ setTimeout(hideTabs, 50);]]></method_code>
   <method_type>JavaScript</method_type>
   <name>labs_HideTabs</name>
  </Item>
- <Item type="Form Event" id="8562A44229694A0885E1041EDC1B14D8" action="add">
-   <form_event>onload</form_event>
-   <related_id keyed_name="labs_HideTabs" type="Method">6D3FF2A8D05C43198AE7B53E1CB29A15</related_id>
-   <sort_order>1408</sort_order>
-   <source_id keyed_name="Part" type="Form">CAF99D0A8E6E44E9A681C38015FACE91</source_id>
- </Item>
 </AML>
