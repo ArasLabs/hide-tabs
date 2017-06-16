@@ -34,7 +34,8 @@ hideTabs = function() {
     var mbomTab = tabbar.GetTabId("BOM Structure");
     tabbar.SetTabVisible(bomTab, false);
     tabbar.SetTabVisible(mbomTab, false);
-    return;
+    
+    parent.relationshipsControl.onloaded();
 };
 
 
