@@ -13,8 +13,9 @@ Internet Explorer 11, Firefox 38 ESR, Chrome
 
 Release | Aras Versions | Notes
 --------|--------|--------
-[v2.0](./releases/tag/v2.0) | 11 SP9 | Project updated for the Aras 11 SP9 tabbed client.
-[v1.0](./releases/tag/v1.0) | 11 SP7, 11 SP5 | Initial release based on a legacy community project.
+[v2.0.1](https://github.com/ArasLabs/hide-tabs/releases/tag/v2.0.1) | 11 SP9 | Fixed release links in project readme and updated test status.
+[v2.0](https://github.com/ArasLabs/hide-tabs/releases/tag/v2.0) | 11 SP9 | Project updated for the Aras 11 SP9 tabbed client.
+[v1.0](https://github.com/ArasLabs/hide-tabs/releases/tag/v1.0) | 11 SP7, 11 SP5 | Initial release based on a legacy community project.
 
 ## Installation
 
