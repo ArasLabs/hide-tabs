@@ -7,12 +7,13 @@ This project demonstrates how to hide specific tabs on a tear-off form. For this
 See [TESTSTATUS file](./TESTSTATUS.md) for latest testing information.
 
 #### Browsers Tested:
-Internet Explorer 11, Firefox 38 ESR, Chrome
+Internet Explorer 11, Firefox 63, Chrome69
 
 ## Release History
 
 Release | Aras Versions | Notes
 --------|--------|--------
+[v2.0.1](https://github.com/ArasLabs/hide-tabs/releases/tag/v2.0.1 ) | 11 SP12 |readme.md file updated for the Aras 11 SP12 and  updated test status.
 [v2.0.1](https://github.com/ArasLabs/hide-tabs/releases/tag/v2.0.1) | 11 SP9 | Fixed release links in project readme and updated test status.
 [v2.0](https://github.com/ArasLabs/hide-tabs/releases/tag/v2.0) | 11 SP9 | Project updated for the Aras 11 SP9 tabbed client.
 [v1.0](https://github.com/ArasLabs/hide-tabs/releases/tag/v1.0) | 11 SP7, 11 SP5 | Initial release based on a legacy community project.

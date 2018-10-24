@@ -13,3 +13,8 @@ Indicates the result of testing for the latest release.
             | IE 11      | FF 38 ESR  | Chrome     
 ------------|------------|------------|------------
 Aras 11 SP9 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+
+
+           | IE 11      | FF 63      | Chrome69     
+-----------|------------|------------|------------
+Aras 11 SP12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
