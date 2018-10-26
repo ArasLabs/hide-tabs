@@ -10,6 +10,6 @@ Indicates the result of testing for the latest release.
 
 ### Results
 
-            | IE 11      | FF 38 ESR  | Chrome     
-------------|------------|------------|------------
+|  Version  | IE 11      | FF 38 ESR  | Chrome     
+------------|------------|------------|------------|
 Aras 11 SP9 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
