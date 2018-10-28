@@ -64,7 +64,7 @@ For more information on contributing to this project, another Aras Labs project,
 
 ## Credits
 
-Original code written by Aras Support.
+The original code was written by Aras Support.
 
 Documented and published by Eli Donahue for Aras Labs. @EliJDonahue
 
