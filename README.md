@@ -2,6 +2,8 @@
 
 This project demonstrates how to hide specific tabs on a tear-off form. For this sample code, we hide the BOM and BOM Structure tabs on the OOTB Aras Part form.
 
+The sample code provided in this project will hide the relationship tabs for only one form. If your use case requires that you hide relationship tabs for any form of a given ItemType, you can follow the approach in our [Hide Tabs By Identity](https://github.com/ArasLabs/hide-tabs-by-identity) community project.
+
 ## History
 Release | Notes
 --------|--------
